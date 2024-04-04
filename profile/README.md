@@ -1,6 +1,8 @@
 # 밀킷 Mealkeat 
 식재료 기반 밀키트 및 주류 추천 서비스, mealkeat 🥕
 
+<img width="619" alt="image" src="https://github.com/7JEON8KI/.github/assets/99467446/7e267945-9096-4350-a10b-3e0da25fac83">
+
 ### 팀 소개
 | [변형준 / 백엔드 책임](https://github.com/skybluelion) | [이지윤 / 프론트 책임](https://github.com/y00n-lee) |[강은구 / 백오피스 책임](https://github.com/kangeunku) | [이소민 / AI&결제 책임](https://github.com/thals0) |
 |:---:|:---:|:---:|:---:|
