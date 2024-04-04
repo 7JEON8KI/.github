@@ -10,12 +10,17 @@
 - 밀키트 시장 규모의 확대 & 밀키트 선호 연령층 확산
 - 식품의 기본인 재료선택의 개인화
 
-![image](링크)
+<img width="718" alt="image" src="https://github.com/7JEON8KI/.github/assets/99467446/0a45b901-82b8-453d-a6da-0bb5205c5912">
+
+<img width="494" alt="image" src="https://github.com/7JEON8KI/.github/assets/99467446/f9af0029-a036-4340-84e9-ce88b3919ebf">
 
 ### 주요 기능
 - 밀킷 추천 : 비슷한 연령대나 성별이 많이 구매한 상품 추천
 - 개인 맞춤화 서비스 : 선호 재료/비선호 재료에 따른 개인 추천 서비스
 - 이미지 검색 : 이미지 유사도 기반 이미지 검색 기능
+
+<img width="459" alt="image" src="https://github.com/7JEON8KI/.github/assets/99467446/9733a4d9-f6fd-4bde-93c5-fd472739757f">
+
 
 ### 기술 스택
 <img width="526" alt="image" src="https://github.com/7JEON8KI/.github/assets/99467446/b6b6e821-f9c7-4883-9a40-e47d7f8bfd88">
