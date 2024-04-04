@@ -7,24 +7,24 @@
 |<img src="https://github.com/skybluelion.png" width="180" height="180" >|<img src="https://github.com/y00n-lee.png" width="180" height="180" >| <img src="https://github.com/kangeunku.png" width="180" height="180"> | <img src="https://github.com/thals0.png" width="180" height="180" >|
 
 ### 기획 배경
-- 더현대 서울 온라인 어플 기획에 앞서 더현대 서울 오프라인 공간 기획에 주목
-- 오프라인 공간 경험을 극대화하고 더현대 서울의 브랜드 아이덴티티를 강화하도록 기획
+- 
+- 
 
-![image](https://github.com/hyundai-fruitfruit/.github/assets/63828057/0679c481-53d3-46ce-97c0-28ca4f04d584)
+![image](링크)
 
 ### 주요 기능
-- 3D 캐릭터 및 방 꾸미기
-- 랜덤 스팟 이벤트
-- 챗봇 흰디
+- 
+- 
+- 
 
 ### 기술 스택
-![image](https://github.com/hyundai-fruitfruit/.github/assets/63828057/2a8e3637-9bcb-46b7-8303-edbfe4d4d47b)
+사진
 
 ### ERD
-![image](https://github.com/hyundai-fruitfruit/.github/assets/63828057/9237efb7-a235-4a86-877d-58bfb27b80ad)
+사진
 
 ### 인프라
-![image](https://github.com/hyundai-fruitfruit/.github/assets/63828057/9c7ef22a-3952-4341-a3ad-8db8366c12b0)
+아키텍쳐
 
 ### 협업 툴
 | Jira | Confluence | Figma |
